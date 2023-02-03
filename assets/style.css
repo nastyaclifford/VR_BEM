@@ -1,0 +1,18 @@
+.button{
+    background-color: #5222D0;
+}
+.button-small{
+    font-size: 0.9em;
+}
+.card {
+    border: none;
+}
+.card__title_large{
+    font-size: 3.5em;
+}
+.image_button_big{
+    width: 2.5rem;
+}
+.navigation__item_colored{
+    color:#5222D0;
+}
